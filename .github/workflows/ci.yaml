@@ -1,3 +1,5 @@
+name: Simple CI
+
 on:
   push:
     paths-ignore:

@@ -3,7 +3,6 @@ name: CI
 
 on:
   push:
-    tags: '*'
     paths-ignore:
       - 'README.md'
       - 'CHANGELOG.md'
